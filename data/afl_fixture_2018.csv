@@ -1,0 +1,208 @@
+Date,Season,Season.Game,Round,Home.Team,Away.Team,Venue
+22/03/2018 19:25,2018,1,1,Richmond,Carlton,MCG
+23/03/2018 19:50,2018,1,1,Essendon,Adelaide,Etihad Stadium
+24/03/2018 15:35,2018,1,1,St Kilda,Brisbane Lions,Etihad Stadium
+24/03/2018 16:05,2018,1,1,Port Adelaide,Fremantle,Adelaide Oval
+24/03/2018 18:25,2018,1,1,Gold Coast,North Melbourne,Cazaly's Stadium
+24/03/2018 19:25,2018,1,1,Hawthorn,Collingwood,MCG
+25/03/2018 13:10,2018,1,1,GWS,Footscray,Manuka Oval
+25/03/2018 15:20,2018,1,1,Melbourne,Geelong,MCG
+25/03/2018 16:20,2018,1,1,West Coast,Sydney,Optus Stadium
+29/03/2018 19:20,2018,1,2,Adelaide,Richmond,Adelaide Oval
+30/03/2018 16:20,2018,1,2,North Melbourne,St Kilda,Etihad Stadium
+31/03/2018 13:45,2018,1,2,Carlton,Gold Coast,Etihad Stadium
+31/03/2018 16:35,2018,1,2,Collingwood,GWS,MCG
+31/03/2018 17:10,2018,1,2,Fremantle,Essendon,Optus Stadium
+31/03/2018 18:25,2018,1,2,Brisbane Lions,Melbourne,Gabba
+1/04/2018 15:20,2018,1,2,Footscray,West Coast,Etihad Stadium
+1/04/2018 16:40,2018,1,2,Sydney,Port Adelaide,SCG
+2/04/2018 15:20,2018,1,2,Geelong,Hawthorn,MCG
+6/04/2018 19:50,2018,1,3,Carlton,Collingwood,MCG
+7/04/2018 13:15,2018,1,3,Port Adelaide,Brisbane Lions,Adelaide Oval
+7/04/2018 14:10,2018,1,3,Melbourne,North Melbourne,MCG
+7/04/2018 14:35,2018,1,3,Gold Coast,Fremantle,Optus Stadium
+7/04/2018 19:25,2018,1,3,Sydney,GWS,SCG
+7/04/2018 19:25,2018,1,3,St Kilda,Adelaide,Etihad Stadium
+8/04/2018 13:10,2018,1,3,Richmond,Hawthorn,MCG
+8/04/2018 14:40,2018,1,3,West Coast,Geelong,Optus Stadium
+8/04/2018 15:20,2018,1,3,Footscray,Essendon,Etihad Stadium
+13/04/2018 19:20,2018,1,4,Adelaide,Collingwood,Adelaide Oval
+14/04/2018 13:45,2018,1,4,GWS,Fremantle,Manuka Oval
+14/04/2018 14:10,2018,1,4,Richmond,Brisbane Lions,MCG
+14/04/2018 16:35,2018,1,4,Footscray,Sydney,Etihad Stadium
+14/04/2018 18:10,2018,1,4,West Coast,Gold Coast,Optus Stadium
+14/04/2018 19:25,2018,1,4,North Melbourne,Carlton,Blundstone Arena
+15/04/2018 13:10,2018,1,4,Essendon,Port Adelaide,Etihad Stadium
+15/04/2018 15:20,2018,1,4,Hawthorn,Melbourne,MCG
+15/04/2018 16:40,2018,1,4,Geelong,St Kilda,GMHBA Stadium
+20/04/2018 19:50,2018,1,5,Sydney,Adelaide,SCG
+21/04/2018 13:45,2018,1,5,St Kilda,GWS,Etihad Stadium
+21/04/2018 16:35,2018,1,5,Carlton,West Coast,MCG
+21/04/2018 18:15,2018,1,5,Fremantle,Footscray,Optus Stadium
+21/04/2018 19:10,2018,1,5,Port Adelaide,Geelong,Adelaide Oval
+22/04/2018 15:20,2018,1,5,North Melbourne,Hawthorn,Etihad Stadium
+22/04/2018 16:45,2018,1,5,Brisbane Lions,Gold Coast,Gabba
+24/04/2018 19:25,2018,1,5,Melbourne,Richmond,MCG
+25/04/2018 15:20,2018,1,5,Collingwood,Essendon,MCG
+27/04/2018 19:50,2018,1,6,Footscray,Carlton,Etihad Stadium
+28/04/2018 13:45,2018,1,6,Geelong,Sydney,GMHBA Stadium
+28/04/2018 14:10,2018,1,6,North Melbourne,Port Adelaide,Etihad Stadium
+28/04/2018 16:35,2018,1,6,GWS,Brisbane Lions,Spotless Stadium
+28/04/2018 19:10,2018,1,6,Adelaide,Gold Coast,Adelaide Oval
+28/04/2018 19:25,2018,1,6,Hawthorn,St Kilda,UTAS Stadium
+29/04/2018 13:10,2018,1,6,Essendon,Melbourne,Etihad Stadium
+29/04/2018 14:40,2018,1,6,Fremantle,West Coast,Optus Stadium
+29/04/2018 15:20,2018,1,6,Collingwood,Richmond,MCG
+4/05/2018 19:50,2018,1,7,Geelong,GWS,GMHBA Stadium
+5/05/2018 13:45,2018,1,7,Footscray,Gold Coast,Mars Stadium
+5/05/2018 14:10,2018,1,7,Essendon,Hawthorn,MCG
+5/05/2018 14:35,2018,1,7,West Coast,Port Adelaide,Optus Stadium
+5/05/2018 19:10,2018,1,7,Adelaide,Carlton,Adelaide Oval
+5/05/2018 19:25,2018,1,7,Sydney,North Melbourne,SCG
+6/05/2018 13:10,2018,1,7,Richmond,Fremantle,MCG
+6/05/2018 15:20,2018,1,7,St Kilda,Melbourne,Etihad Stadium
+6/05/2018 16:40,2018,1,7,Brisbane Lions,Collingwood,Gabba
+11/05/2018 19:50,2018,1,8,Hawthorn,Sydney,MCG
+12/05/2018 13:45,2018,1,8,GWS,West Coast,Spotless Stadium
+12/05/2018 14:10,2018,1,8,Carlton,Essendon,MCG
+12/05/2018 16:35,2018,1,8,Gold Coast,Melbourne,Gabba
+12/05/2018 16:40,2018,1,8,Port Adelaide,Adelaide,Adelaide Oval
+12/05/2018 18:10,2018,1,8,Fremantle,St Kilda,Optus Stadium
+12/05/2018 19:25,2018,1,8,Footscray,Brisbane Lions,Etihad Stadium
+13/05/2018 13:10,2018,1,8,North Melbourne,Richmond,Etihad Stadium
+13/05/2018 15:20,2018,1,8,Collingwood,Geelong,MCG
+18/05/2018 19:20,2018,1,9,Adelaide,Footscray,Adelaide Oval
+19/05/2018 13:15,2018,1,9,Gold Coast,Port Adelaide,Jiangwan Stadium
+19/05/2018 13:45,2018,1,9,North Melbourne,GWS,Blundstone Arena
+19/05/2018 16:35,2018,1,9,Essendon,Geelong,MCG
+19/05/2018 19:25,2018,1,9,Sydney,Fremantle,SCG
+19/05/2018 19:25,2018,1,9,St Kilda,Collingwood,Etihad Stadium
+20/05/2018 13:10,2018,1,9,Carlton,Melbourne,MCG
+20/05/2018 14:40,2018,1,9,West Coast,Richmond,Optus Stadium
+20/05/2018 15:20,2018,1,9,Brisbane Lions,Hawthorn,Gabba
+25/05/2018 19:50,2018,1,10,Collingwood,Footscray,Etihad Stadium
+26/05/2018 13:45,2018,1,10,Richmond,St Kilda,MCG
+26/05/2018 16:35,2018,1,10,Brisbane Lions,Sydney,Gabba
+26/05/2018 19:25,2018,1,10,GWS,Essendon,Spotless Stadium
+26/05/2018 19:25,2018,1,10,Geelong,Carlton,GMHBA Stadium
+27/05/2018 13:10,2018,1,10,Hawthorn,West Coast,Etihad Stadium
+27/05/2018 14:40,2018,1,10,Fremantle,North Melbourne,Optus Stadium
+27/05/2018 14:50,2018,1,10,Melbourne,Adelaide,TIO Traegar Park
+1/06/2018 19:50,2018,1,11,Sydney,Carlton,SCG
+2/06/2018 13:45,2018,1,11,Footscray,Melbourne,Etihad Stadium
+2/06/2018 14:10,2018,1,11,Hawthorn,Port Adelaide,UTAS Stadium
+2/06/2018 16:35,2018,1,11,Gold Coast,Geelong,Metricon Stadium
+2/06/2018 18:10,2018,1,11,West Coast,St Kilda,Optus Stadium
+2/06/2018 19:25,2018,1,11,Essendon,Richmond,MCG
+3/06/2018 13:10,2018,1,11,North Melbourne,Brisbane Lions,Etihad Stadium
+3/06/2018 15:20,2018,1,11,Collingwood,Fremantle,MCG
+3/06/2018 16:10,2018,1,11,Adelaide,GWS,Adelaide Oval
+8/06/2018 19:20,2018,1,12,Port Adelaide,Richmond,Adelaide Oval
+9/06/2018 13:45,2018,1,12,Geelong,North Melbourne,GMHBA Stadium
+9/06/2018 16:35,2018,1,12,GWS,Gold Coast,Spotless Stadium
+9/06/2018 19:25,2018,1,12,St Kilda,Sydney,Etihad Stadium
+10/06/2018 13:10,2018,1,12,Brisbane Lions,Essendon,Gabba
+10/06/2018 14:40,2018,1,12,Fremantle,Adelaide,Optus Stadium
+11/06/2018 15:20,2018,1,12,Melbourne,Collingwood,MCG
+14/06/2018 19:20,2018,1,13,Port Adelaide,Footscray,Adelaide Oval
+15/06/2018 19:50,2018,1,13,Sydney,West Coast,SCG
+16/06/2018 13:45,2018,1,13,Carlton,Fremantle,Etihad Stadium
+16/06/2018 16:35,2018,1,13,Gold Coast,St Kilda,Metricon Stadium
+16/06/2018 19:25,2018,1,13,Hawthorn,Adelaide,MCG
+17/06/2018 15:20,2018,1,13,Geelong,Richmond,MCG
+21/06/2018 18:10,2018,1,14,West Coast,Essendon,Optus Stadium
+22/06/2018 19:20,2018,1,14,Port Adelaide,Melbourne,Adelaide Oval
+23/06/2018 13:45,2018,1,14,Hawthorn,Gold Coast,UTAS Stadium
+23/06/2018 16:35,2018,1,14,Brisbane Lions,GWS,Gabba
+23/06/2018 19:25,2018,1,14,Footscray,North Melbourne,Etihad Stadium
+24/06/2018 15:20,2018,1,14,Collingwood,Carlton,MCG
+28/06/2018 19:20,2018,1,15,Richmond,Sydney,Etihad Stadium
+29/06/2018 19:50,2018,1,15,Footscray,Geelong,Etihad Stadium
+30/06/2018 13:45,2018,1,15,Carlton,Port Adelaide,MCG
+30/06/2018 16:05,2018,1,15,Adelaide,West Coast,Adelaide Oval
+30/06/2018 19:25,2018,1,15,GWS,Hawthorn,Spotless Stadium
+30/06/2018 19:25,2018,1,15,Gold Coast,Collingwood,Metricon Stadium
+1/07/2018 13:10,2018,1,15,Melbourne,St Kilda,MCG
+1/07/2018 14:40,2018,1,15,Fremantle,Brisbane Lions,Optus Stadium
+1/07/2018 15:20,2018,1,15,Essendon,North Melbourne,Etihad Stadium
+5/07/2018 19:20,2018,1,16,Sydney,Geelong,SCG
+6/07/2018 19:50,2018,1,16,Richmond,Adelaide,MCG
+7/07/2018 13:45,2018,1,16,Brisbane Lions,Carlton,Gabba
+7/07/2018 16:05,2018,1,16,Port Adelaide,St Kilda,Adelaide Oval
+7/07/2018 19:10,2018,1,16,Melbourne,Fremantle,TIO Stadium
+7/07/2018 19:25,2018,1,16,Footscray,Hawthorn,Etihad Stadium
+8/07/2018 13:10,2018,1,16,North Melbourne,Gold Coast,Etihad Stadium
+8/07/2018 14:40,2018,1,16,West Coast,GWS,Optus Stadium
+8/07/2018 15:20,2018,1,16,Essendon,Collingwood,MCG
+12/07/2018 19:20,2018,1,17,Adelaide,Geelong,Adelaide Oval
+13/07/2018 19:50,2018,1,17,St Kilda,Carlton,Etihad Stadium
+14/07/2018 13:45,2018,1,17,Hawthorn,Brisbane Lions,UTAS Stadium
+14/07/2018 16:35,2018,1,17,Melbourne,Footscray,MCG
+14/07/2018 19:25,2018,1,17,GWS,Richmond,Spotless Stadium
+14/07/2018 19:25,2018,1,17,Gold Coast,Essendon,Metricon Stadium
+15/07/2018 13:10,2018,1,17,Collingwood,West Coast,MCG
+15/07/2018 14:40,2018,1,17,Fremantle,Port Adelaide,Optus Stadium
+15/07/2018 15:20,2018,1,17,North Melbourne,Sydney,Etihad Stadium
+20/07/2018 19:50,2018,1,18,St Kilda,Richmond,Etihad Stadium
+21/07/2018 13:45,2018,1,18,Collingwood,North Melbourne,MCG
+21/07/2018 14:10,2018,1,18,Sydney,Gold Coast,SCG
+21/07/2018 16:35,2018,1,18,Essendon,Fremantle,Etihad Stadium
+21/07/2018 19:25,2018,1,18,Brisbane Lions,Adelaide,Gabba
+21/07/2018 19:25,2018,1,18,Geelong,Melbourne,GMHBA Stadium
+22/07/2018 13:10,2018,1,18,Carlton,Hawthorn,Etihad Stadium
+22/07/2018 13:20,2018,1,18,West Coast,Footscray,Optus Stadium
+22/07/2018 16:10,2018,1,18,Port Adelaide,GWS,Adelaide Oval
+27/07/2018 19:50,2018,1,19,Essendon,Sydney,Etihad Stadium
+28/07/2018 13:45,2018,1,19,Richmond,Collingwood,MCG
+28/07/2018 14:10,2018,1,19,Geelong,Brisbane Lions,GMHBA Stadium
+28/07/2018 16:35,2018,1,19,GWS,St Kilda,Spotless Stadium
+28/07/2018 19:10,2018,1,19,Adelaide,Melbourne,Adelaide Oval
+28/07/2018 19:25,2018,1,19,Gold Coast,Carlton,Metricon Stadium
+29/07/2018 13:10,2018,1,19,North Melbourne,West Coast,Blundstone Arena
+29/07/2018 14:40,2018,1,19,Fremantle,Hawthorn,Optus Stadium
+29/07/2018 15:20,2018,1,19,Footscray,Port Adelaide,Mars Stadium
+3/08/2018 19:50,2018,1,20,Richmond,Geelong,MCG
+4/08/2018 13:45,2018,1,20,Hawthorn,Essendon,MCG
+4/08/2018 14:10,2018,1,20,Brisbane Lions,North Melbourne,Gabba
+4/08/2018 16:05,2018,1,20,Adelaide,Port Adelaide,Adelaide Oval
+4/08/2018 19:25,2018,1,20,St Kilda,Footscray,Etihad Stadium
+4/08/2018 19:25,2018,1,20,Sydney,Collingwood,SCG
+5/08/2018 13:10,2018,1,20,Carlton,GWS,Etihad Stadium
+5/08/2018 14:40,2018,1,20,West Coast,Fremantle,Optus Stadium
+5/08/2018 15:20,2018,1,20,Melbourne,Gold Coast,MCG
+10/08/2018 19:50,2018,1,21,Essendon,St Kilda,Etihad Stadium
+11/08/2018 13:45,2018,1,21,Hawthorn,Geelong,MCG
+11/08/2018 14:10,2018,1,21,Gold Coast,Richmond,Metricon Stadium
+11/08/2018 16:05,2018,1,21,Port Adelaide,West Coast,Adelaide Oval
+11/08/2018 19:25,2018,1,21,Collingwood,Brisbane Lions,Etihad Stadium
+11/08/2018 19:25,2018,1,21,GWS,Adelaide,Manuka Oval
+12/08/2018 13:10,2018,1,21,North Melbourne,Footscray,Etihad Stadium
+12/08/2018 14:40,2018,1,21,Fremantle,Carlton,Optus Stadium
+12/08/2018 15:20,2018,1,21,Melbourne,Sydney,MCG
+17/08/2018 19:50,2018,1,22,Richmond,Essendon,MCG
+18/08/2018 13:45,2018,1,22,Collingwood,Port Adelaide,MCG
+18/08/2018 14:10,2018,1,22,Geelong,Fremantle,GMHBA Stadium
+18/08/2018 16:35,2018,1,22,GWS,Sydney,Spotless Stadium
+18/08/2018 19:25,2018,1,22,St Kilda,Hawthorn,Etihad Stadium
+18/08/2018 19:25,2018,1,22,Gold Coast,Brisbane Lions,Metricon Stadium
+19/08/2018 13:10,2018,1,22,Carlton,Footscray,Etihad Stadium
+19/08/2018 13:20,2018,1,22,West Coast,Melbourne,Optus Stadium
+19/08/2018 16:10,2018,1,22,Adelaide,North Melbourne,Adelaide Oval
+24/08/2018 19:20,2018,1,23,Port Adelaide,Essendon,Adelaide Oval
+25/08/2018 13:45,2018,1,23,Geelong,Gold Coast,GMHBA Stadium
+25/08/2018 14:10,2018,1,23,Richmond,Footscray,MCG
+25/08/2018 14:35,2018,1,23,Fremantle,Collingwood,Optus Stadium
+25/08/2018 19:25,2018,1,23,Carlton,Adelaide,Etihad Stadium
+25/08/2018 19:25,2018,1,23,Sydney,Hawthorn,SCG
+26/08/2018 13:10,2018,1,23,Brisbane Lions,West Coast,Gabba
+26/08/2018 15:20,2018,1,23,Melbourne,GWS,MCG
+26/08/2018 16:40,2018,1,23,St Kilda,North Melbourne,Etihad Stadium
+6/09/2018 19:20,2018,1,25,Richmond,Hawthorn,MCG
+7/09/2018 19:50,2018,1,25,Melbourne,Geelong,MCG
+8/09/2018 16:20,2018,1,25,Sydney,GWS,SCG
+8/09/2018 18:10,2018,1,25,West Coast,Collingwood,Optus Stadium
+14/09/2018 19:50,2018,1,26,Hawthorn,Melbourne,MCG
+15/09/2018 19:25,2018,1,26,Collingwood,GWS,MCG
+21/09/2018 19:50,2018,1,27,Richmond,Collingwood,MCG
+22/09/2018 13:20,2018,1,27,West Coast,Melbourne,Optus Stadium
+29/09/2018 13:20,2018,1,28,West Coast,Collingwood,MCG
